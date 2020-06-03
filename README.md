@@ -13,4 +13,4 @@ To run this Project do the following steps
 2. After downloading extract all the files to one folder ,if u have cloned then u can skip this step
 3. Open the project folder with any python IDE and the find file program.py
 4. After finding it replace the path of the csv files on which you want to perform operations.
-5.Before searching using index search for the 1st time you must have generated the index file using the 5th option.
+5. Before searching using index search for the 1st time you must have generated the index file using the 5th option.
