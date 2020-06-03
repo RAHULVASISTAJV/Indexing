@@ -4,8 +4,8 @@ Indexing is a data structure technique to efficiently retrieve records from the 
 Secondary Index − Secondary index may be generated from a field which is a candidate key and has a unique value in every record, or a non-key with duplicate values.  Clustering Index − Clustering index is defined on an ordered data file. The data file is ordered on a non-key field.
 
 Basic requirement to run this project are
-1. Python 3.5 or higher
-2.Must have to csv files one with data another empty one to generate the index.
+1. Python 3.5 or higher.
+2. Must have to csv files one with data another empty one to generate the index.
 3. Any Python IDE(PYCHARM reccemonded)
 
 To run this Project do the following steps
