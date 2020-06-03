@@ -5,11 +5,12 @@ Secondary Index − Secondary index may be generated from a field which is a can
 
 Basic requirement to run this project are
 1. Python 3.5 or higher
-2. Must Have PIL and Pyqt5 package installed
-3. Any Python IDE
+2.Must have to csv files one with data another empty one to generate the index.
+3. Any Python IDE(PYCHARM reccemonded)
 
 To run this Project do the following steps
 1. Clone or download the files
 2. After downloading extract all the files to one folder ,if u have cloned then u can skip this step
-3. Open the project folder with any python IDE and the find file named app.py
-4. After finding it open it and run it before runing make sure all the basic requirements are fullfield
+3. Open the project folder with any python IDE and the find file program.py
+4. After finding it replace the path of the csv files on which you want to perform operations.
+5.Before searching using index search for the 1st time you must have generated the index file using the 5th option.
